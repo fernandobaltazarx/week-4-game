@@ -1,0 +1,26 @@
+.button {
+	cursor: crosshair;
+}
+#btnObiWan{
+    background: url(images/ObiWan.jpg) no-repeat;
+    height: 110px;
+    width: 110px;
+}
+#btnLukeSky{
+    background: url(images/LukeSky.jpg) no-repeat;
+    height: 110px;
+    width: 110px;
+}
+#btnDarthMaul{
+    background: url(images/DarthMaul.jpg) no-repeat;
+    height: 110px;
+    width: 110px;
+}
+#btnDarthSid{
+    background: url(images/DarthSid.jpg) no-repeat;
+    height: 110px;
+    width: 110px;
+}
+body{
+    background: url(images/background.jpg) no-repeat;
+}
